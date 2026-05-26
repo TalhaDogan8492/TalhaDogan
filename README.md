@@ -40,4 +40,4 @@ Siber güvenlik ve ağ güvenliği alanında pratik yaparak kendimi geliştirmek
 ## İletişim
 - LinkedIn: www.linkedin.com/in/muhammedtalhadogan
 - GitHub: https://github.com/TalhaDogan8492
-- Mail: mtlhdgn@gamil.com
+- Mail: mtlhdgn@gmail.com
